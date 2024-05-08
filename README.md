@@ -44,7 +44,7 @@ The scope of the project involves designing and implementing an autonomous firef
 Contributions to this project are welcome! If you'd like to contribute or provide feedback, please create a pull request or reach out to us.
 
 ## Contact
-For any inquiries or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or suggestions, feel free to contact us at [rithiksuthan123@gmail.com](mailto:rithiksuthan123@gmail.com).
 
 ## Functional Diagram
 ![image](https://github.com/RithikSuthan/Fire-Fighting-Robot/assets/72434153/591ef8b4-1049-47ba-a3f4-05d5ecc57b84)
